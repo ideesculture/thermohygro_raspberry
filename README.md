@@ -10,7 +10,8 @@ The final aim is to integrate simple conservation constants for a museum archive
 ![capture.png](capture.png)
 
 ## Todo
+
 - [ ] Document the crontab operation
-- [ ] Have a decimation process to keep only step measures (maybe 24/day when older than a week, keep only weekly week average measures when older than one year)
+- [ ] Have a decimation process to keep only step measures (maybe 24/day when older than a week, keep only weekly week average measures when older than one year)
 - [ ] Have a webservice and an information bundle inside CollectiveAccess
 - [ ] Have a dashboard widget inside CollectiveAccess
